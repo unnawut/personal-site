@@ -1,0 +1,60 @@
+html {
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-weight: 300;
+    text-align: center;
+    padding: 1rem;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    font-weight: 300;
+    margin-top: 8rem;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #222;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 a:hover {
+    text-decoration: none;
+}
+
+.page-donations .list-item-donation {
+    padding-top: 1rem;
+}
+
+.page-donations .nav-home {
+    margin-top: 1rem;
+}
+
+.page-donations .nav-home a {
+    color: #c0c0c0;
+    font-size: 75%;
+}
+
+.page-donations a {
+    color: #1214d8;
+}
+
+.page-donations h2 {
+    font-size: 100%;
+}
+
